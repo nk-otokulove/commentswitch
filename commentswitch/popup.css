@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    background-color: #efefef;
+}
+#block{
+    margin: 10px;
+    
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+img{
+    margin-left: 10px;
+    width: 100px;
+}
+
+p{
+    margin: 0;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #fff;
+    
+}

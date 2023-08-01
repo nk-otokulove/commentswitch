@@ -1,0 +1,23 @@
+#addbutton{
+    text-align: center;
+    width: 50%;
+    margin:  20px 0;
+    padding: 0 20px;
+    font-size: 25px;
+    background-color: #cc0000;
+    
+    border: none;
+    border-bottom: 5px solid #8f0101;
+
+    border-radius: 5px;
+    color: #fff;
+    
+}
+
+#addbutton:active{
+    margin-top: 23px;
+    border-bottom: 2px solid #8f0101;
+}
+#adddiv{
+    text-align: center;
+}
